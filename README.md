@@ -1,7 +1,6 @@
 # kingfisher-coding-test
 
 # EXERCISE 1 - Code Review
-=========================
 
 ## MOCK CODE
 ---------
@@ -90,7 +89,6 @@ export default UserProfile;
 ---
 
 ## MOCK UNIT TEST
-=================
 ```tsx
 import React from "react";
 import { render, screen } from "@testing-library/react";
